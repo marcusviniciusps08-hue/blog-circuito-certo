@@ -1,0 +1,64 @@
+# Circuito Explicado
+
+> Guias, comparativos e reviews de tecnologia explicada em números, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Comparativos
+- [4 celulares até R$ 1.200: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/celulares-ate-1200/)
+- [4 câmeras de segurança até R$ 180: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/cameras-de-seguranca-ate-180/)
+- [4 fones de ouvido até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/fones-de-ouvido-ate-70/)
+- [5 informática e redes até R$ 120: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/informatica-e-redes-ate-120/)
+- [4 ssds e hds até R$ 600: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/ssds-e-hds-ate-600/)
+
+## Guias
+- [Como escolher celular: o que olhar na ficha antes de gastar (de R$ 799 a R$ 2.371)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-celular/)
+- [Como escolher câmera de segurança: o que olhar na ficha antes de gastar (de R$ 89,99 a R$ 329,57)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-camera-de-seguranca/)
+- [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 24,49 a R$ 225,89)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-fone-de-ouvido/)
+- [Como escolher item de informática: o que olhar na ficha antes de gastar (de R$ 21,88 a R$ 495)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-item-de-informatica/)
+- [Como escolher SSD ou HD: o que olhar na ficha antes de gastar (de R$ 216 a R$ 997)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-ssd-ou-hd/)
+
+## Reviews
+- [Celular Samsung Galaxy A17 5G Com IA, 128gb, em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/celular-samsung-galaxy-a17-5g-com-ia-128gb-99b8bf/)
+- [Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/celular-samsung-galaxy-a17-com-ia-256gb-8gb-0a6580/)
+- [Smartphone Motorola Moto G17 4g - 128gb 4gb: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-motorola-moto-g17-4g-128gb-4gb-5fa82b/)
+- [Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-samsung-galaxy-a07-4g-256gb-8gb-preto-3efa12/)
+- [Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-samsung-galaxy-a36-5g-128gb-6gb-ram-33ad5f/)
+- [Smartphone Samsung Galaxy A36 5G 256GB 8GB Super em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-samsung-galaxy-a36-5g-256gb-8gb-super-408ebf/)
+- [Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-samsung-galaxy-a36-5g-128gb-6gb-ram-090f17/)
+- [Smartphone Tcl 256gb 50mp 14gb Ram 6.7" Hd+: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-tcl-256gb-50mp-14gb-ram-6-7-hd-20cc4d/)
+- [Câmera De Segurança Wifi Yoosee Externa Mini Dome: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-de-seguranca-wifi-yoosee-externa-mini-dome-c759de/)
+- [Câmera Inteligente 3mp De Resolução Branca Intelbras Branco: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-inteligente-3mp-de-resolucao-branca-intelbras-branco-8d6e66/)
+- [Câmera Inteligente Full HD iM5 SC com MicroSD: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-inteligente-full-hd-im5-sc-com-microsd-9874fc/)
+- [Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-de-seguranca-wi-fi-icsee-yoosee-a28b-4k-dupla-e5d103/)
+- [Kit 2 Câmeras Segurança Ip Interna Externa Wifi em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/kit-2-cameras-seguranca-ip-interna-externa-wifi-dd8d4c/)
+- [Kit 2 Câmeras de Segurança Woosh A28B Full: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/kit-2-cameras-de-seguranca-woosh-a28b-full-775154/)
+- [Mercusys MC210 Câmera Segurança Wifi 2K 3MP 360° em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/mercusys-mc210-camera-seguranca-wifi-2k-3mp-360-f15498/)
+- [Mercusys MC510 Câmera de Segurança Wi-Fi Externa 2K: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/mercusys-mc510-camera-de-seguranca-wi-fi-externa-2k-303554/)
+- [Fone De Ouvido Bluetooth Bateria de Longa Duração: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-bluetooth-bateria-de-longa-duracao-3ad281/)
+- [Fone De Ouvido Com Fio C50hi intra- auriculares em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-com-fio-c50hi-intra-auriculares-4a9366/)
+- [Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-headphone-dapon-h02d-bluetooth-5-1-6ee44e/)
+- [Fone De Ouvido Headset Gamer Havit H2002d P3: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-headset-gamer-havit-h2002d-p3-2a3c67/)
+- [Fone De Ouvido Sem Fio Xiaomi Redmi Buds: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-75d75d/)
+- [Fone De Ouvido Soundcore by Anker P20i Graves: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-soundcore-by-anker-p20i-graves-e415b3/)
+- [Fone De Ouvido com fio e Microfone Philips: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-com-fio-e-microfone-philips-c72b18/)
+- [Fone de Ouvido Bluetooth 5.4 soundcore P30i da em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-b752f2/)
+- [Cabo De Rede Internet 30m 30 Metros Cat6: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/cabo-de-rede-internet-30m-30-metros-cat6-be1460/)
+- [Cartão Memória 32gb Sandisk Ultra Sdhc Sdsdunr-032g-gn3in em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/cartao-memoria-32gb-sandisk-ultra-sdhc-sdsdunr-032g-gn3in-6ff700/)
+- [Cartão Micro Sd 64gb 32tbw em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/cartao-micro-sd-64gb-32tbw-31b5b3/)
+- [Maquininha De Cartão Mercado Pago Point Mini D175-bt: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/maquininha-de-cartao-mercado-pago-point-mini-d175-bt-8f504c/)
+- [Maquininha De Cartão Pro 3 Mercado Pago Point: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/maquininha-de-cartao-pro-3-mercado-pago-point-4db1e5/)
+- [Maquininha De Cartão Smart 2 Mercado Pago Point em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/maquininha-de-cartao-smart-2-mercado-pago-point-c8a51b/)
+- [Mouse Recarregável Bluetooth Wireless Ergonômico Óptico Informática Gamer em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/mouse-recarregavel-bluetooth-wireless-ergonomico-optico-informatica-ga-12547b/)
+- [Starlink Mini Kit Antena Satélite com Roteador Wi-Fi em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/starlink-mini-kit-antena-satelite-com-roteador-wi-fi-37c260/)
+- [HD Externo 500gb Seagate Expansion STEA500400 2.5 Usb: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/hd-externo-500gb-seagate-expansion-stea500400-2-5-usb-c02723/)
+- [HD Externo Portátil Toshiba Canvio HDTB520XK3AA 2TB preto em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/hd-externo-portatil-toshiba-canvio-hdtb520xk3aa-2tb-preto-50e7e5/)
+- [SSD Externo Portátil 1TB Interface USB 3.2 SanDisk em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/ssd-externo-portatil-1tb-interface-usb-3-2-sandisk-8d3971/)
+- [SSD Interno Macrovip Premium 240 GB Mv240gb: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/ssd-interno-macrovip-premium-240-gb-mv240gb-6278fa/)
+- [SSD Kingston NV3 1TB M.2 2280 PCIe 4.0: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/ssd-kingston-nv3-1tb-m-2-2280-pcie-4-0-060187/)
+- [SSD Kingston NV3 500GB M.2 2280 NVMe PCIe: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/ssd-kingston-nv3-500gb-m-2-2280-nvme-pcie-d08657/)
+- [Ssd M.2 1tb Sandisk Plus Nvme 2280 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/ssd-m-2-1tb-sandisk-plus-nvme-2280-c8310b/)
+- [interno Western Digital WD Green WDS480G3G0A 480GB preto em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/interno-western-digital-wd-green-wds480g3g0a-480gb-preto-1edd82/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/sobre/)
