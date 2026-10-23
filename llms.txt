@@ -1,22 +1,22 @@
 # Circuito Explicado
 
-> Guias, comparativos e reviews de tecnologia explicada em números, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de tecnologia explicada em números, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 celulares até R$ 1.200: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/celulares-ate-1200/)
-- [4 câmeras de segurança até R$ 180: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/cameras-de-seguranca-ate-180/)
-- [4 fones de ouvido até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/fones-de-ouvido-ate-70/)
-- [5 informática e redes até R$ 120: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/informatica-e-redes-ate-120/)
-- [4 ssds e hds até R$ 600: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/ssds-e-hds-ate-600/)
+- [4 celulares até R$ 1.200: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/celulares-ate-1200/)
+- [4 câmeras de segurança até R$ 180: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/cameras-de-seguranca-ate-180/)
+- [4 fones de ouvido até R$ 70: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/fones-de-ouvido-ate-70/)
+- [5 informática e redes até R$ 120: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/informatica-e-redes-ate-120/)
+- [4 ssds e hds até R$ 600: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/ssds-e-hds-ate-600/)
 
 ## Guias
-- [Como escolher celular: o que olhar na ficha antes de gastar (de R$ 799 a R$ 2.371)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-celular/)
+- [Como escolher celular: o que olhar na ficha antes de gastar (de R$ 815 a R$ 2.371)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-celular/)
 - [Como escolher câmera de segurança: o que olhar na ficha antes de gastar (de R$ 89,99 a R$ 329,57)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-camera-de-seguranca/)
 - [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 24,49 a R$ 225,89)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-fone-de-ouvido/)
-- [Como escolher item de informática: o que olhar na ficha antes de gastar (de R$ 21,88 a R$ 495)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-item-de-informatica/)
-- [Como escolher SSD ou HD: o que olhar na ficha antes de gastar (de R$ 216 a R$ 997)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-ssd-ou-hd/)
+- [Como escolher item de informática: o que olhar na ficha antes de gastar (de R$ 20,59 a R$ 465,01)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-item-de-informatica/)
+- [Como escolher SSD ou HD: o que olhar na ficha antes de gastar (de R$ 229 a R$ 997)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-ssd-ou-hd/)
 
 ## Reviews
 - [Celular Samsung Galaxy A17 5G Com IA, 128gb, em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/celular-samsung-galaxy-a17-5g-com-ia-128gb-99b8bf/)
@@ -51,6 +51,9 @@ Contém links de afiliado Mercado Livre.
 - [Maquininha De Cartão Smart 2 Mercado Pago Point em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/maquininha-de-cartao-smart-2-mercado-pago-point-c8a51b/)
 - [Mouse Recarregável Bluetooth Wireless Ergonômico Óptico Informática Gamer em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/mouse-recarregavel-bluetooth-wireless-ergonomico-optico-informatica-ga-12547b/)
 - [Starlink Mini Kit Antena Satélite com Roteador Wi-Fi em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/starlink-mini-kit-antena-satelite-com-roteador-wi-fi-37c260/)
+- [Cabo Adaptador Otg 3.0 Tipo C Pendrive Para: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/cabo-adaptador-otg-3-0-tipo-c-pendrive-para-ec87c5/)
+- [Carregador Sem Fio 5000/10000mAh iPhone: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/carregador-sem-fio-5000-10000mah-iphone-d683cd/)
+- [Kit Carregador 67W Turbo + Cabo Tipo-C Carga: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/kit-carregador-67w-turbo-cabo-tipo-c-carga-08df5f/)
 - [HD Externo 500gb Seagate Expansion STEA500400 2.5 Usb: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/hd-externo-500gb-seagate-expansion-stea500400-2-5-usb-c02723/)
 - [HD Externo Portátil Toshiba Canvio HDTB520XK3AA 2TB preto em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/hd-externo-portatil-toshiba-canvio-hdtb520xk3aa-2tb-preto-50e7e5/)
 - [SSD Externo Portátil 1TB Interface USB 3.2 SanDisk em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/ssd-externo-portatil-1tb-interface-usb-3-2-sandisk-8d3971/)
