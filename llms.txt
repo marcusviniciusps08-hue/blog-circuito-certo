@@ -5,27 +5,29 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 celulares até R$ 1.300: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/celulares-ate-1300/)
-- [3 câmeras de segurança até R$ 190: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/cameras-de-seguranca-ate-190/)
-- [3 fones de ouvido até R$ 70: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/fones-de-ouvido-ate-70/)
-- [5 informática e redes até R$ 120: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/informatica-e-redes-ate-120/)
-- [4 ssds e hds até R$ 700: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/ssds-e-hds-ate-700/)
+- [4 celulares até R$ 1.200: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/celulares-ate-1200/)
+- [4 câmeras de segurança até R$ 250: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/cameras-de-seguranca-ate-250/)
+- [3 fones de ouvido até R$ 70: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/fones-de-ouvido-ate-70/)
+- [4 informática e redes até R$ 120: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/informatica-e-redes-ate-120/)
+- [4 ssds e hds até R$ 700: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/ssds-e-hds-ate-700/)
 
 ## Guias
-- [Como escolher celular: o que olhar na ficha antes de gastar (de R$ 899 a R$ 2.180)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-celular/)
-- [Como escolher câmera de segurança: o que olhar na ficha antes de gastar (de R$ 91,99 a R$ 320)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-camera-de-seguranca/)
-- [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 31,85 a R$ 196)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-fone-de-ouvido/)
-- [Como escolher item de informática: o que olhar na ficha antes de gastar (de R$ 21,99 a R$ 440)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-item-de-informatica/)
-- [Como escolher SSD ou HD: o que olhar na ficha antes de gastar (de R$ 295,90 a R$ 1.039)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-ssd-ou-hd/)
+- [Como escolher celular: o que olhar na ficha antes de gastar (de R$ 890 a R$ 2.180)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-celular/)
+- [Como escolher câmera de segurança: o que olhar na ficha antes de gastar (de R$ 78,99 a R$ 359)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-camera-de-seguranca/)
+- [Como escolher fone de ouvido: o que olhar na ficha antes de gastar (de R$ 31,48 a R$ 196)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-fone-de-ouvido/)
+- [Como escolher item de informática: o que olhar na ficha antes de gastar (de R$ 20,99 a R$ 449)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-item-de-informatica/)
+- [Como escolher SSD ou HD: o que olhar na ficha antes de gastar (de R$ 280 a R$ 1.047,50)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-ssd-ou-hd/)
 
 ## Reviews
 - [Celular Samsung Galaxy A17 5G Com IA, 128gb, em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/celular-samsung-galaxy-a17-5g-com-ia-128gb-99b8bf/)
 - [Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/celular-samsung-galaxy-a17-com-ia-256gb-8gb-0a6580/)
 - [Smartphone Motorola Moto G17 4g - 128gb 4gb: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-motorola-moto-g17-4g-128gb-4gb-5fa82b/)
+- [Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-samsung-galaxy-a07-4g-256gb-8gb-preto-3efa12/)
 - [Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-samsung-galaxy-a36-5g-128gb-6gb-ram-33ad5f/)
 - [Smartphone Samsung Galaxy A36 5G 256GB 8GB Super em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-samsung-galaxy-a36-5g-256gb-8gb-super-408ebf/)
 - [Smartphone Tcl 256gb 50mp 14gb Ram 6.7" Hd+: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/smartphone-tcl-256gb-50mp-14gb-ram-6-7-hd-20cc4d/)
 - [Câmera De Segurança Wifi Yoosee Externa Mini Dome: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-de-seguranca-wifi-yoosee-externa-mini-dome-c759de/)
+- [Câmera Inteligente 3mp De Resolução Branca Intelbras Branco: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-inteligente-3mp-de-resolucao-branca-intelbras-branco-8d6e66/)
 - [Câmera Inteligente Full HD iM5 SC com MicroSD: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-inteligente-full-hd-im5-sc-com-microsd-9874fc/)
 - [Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/camera-de-seguranca-wi-fi-icsee-yoosee-a28b-4k-dupla-e5d103/)
 - [Kit 2 Câmeras Segurança Ip Interna Externa Wifi em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/review/kit-2-cameras-seguranca-ip-interna-externa-wifi-dd8d4c/)
