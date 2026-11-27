@@ -5,11 +5,11 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 celulares até R$ 1.200: comparativo com preços de 25/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/celulares-ate-1200/)
-- [4 câmeras de segurança até R$ 250: comparativo com preços de 25/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/cameras-de-seguranca-ate-250/)
-- [3 fones de ouvido até R$ 70: comparativo com preços de 25/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/fones-de-ouvido-ate-70/)
-- [4 informática e redes até R$ 120: comparativo com preços de 25/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/informatica-e-redes-ate-120/)
-- [4 ssds e hds até R$ 700: comparativo com preços de 25/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/ssds-e-hds-ate-700/)
+- [4 celulares até R$ 1.200: comparativo com preços de 27/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/celulares-ate-1200/)
+- [4 câmeras de segurança até R$ 250: comparativo com preços de 27/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/cameras-de-seguranca-ate-250/)
+- [3 fones de ouvido até R$ 70: comparativo com preços de 27/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/fones-de-ouvido-ate-70/)
+- [4 informática e redes até R$ 120: comparativo com preços de 27/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/informatica-e-redes-ate-120/)
+- [4 ssds e hds até R$ 700: comparativo com preços de 27/11](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/top/ssds-e-hds-ate-700/)
 
 ## Guias
 - [Como escolher celular: o que olhar na ficha antes de gastar (de R$ 890 a R$ 2.081)](https://marcusviniciusps08-hue.github.io/blog-circuito-certo/guia/como-escolher-celular/)
